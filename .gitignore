@@ -167,3 +167,5 @@ ckpt/
 .vscode/
 
 /pretrained
+/weight
+/best_weight
